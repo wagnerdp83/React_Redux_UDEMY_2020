@@ -15,7 +15,7 @@ export const signOut = () =>{
     }
 };
 
-export const createStream = formValues => async dispatch => {
+export const createStream = formValues => async dispatch => { // User redux-thunk
 
     streams.post('/streams', formValues); // Post Request of Streams with Axios async to formValues
     
