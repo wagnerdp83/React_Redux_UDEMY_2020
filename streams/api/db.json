@@ -1,3 +1,33 @@
 {
-    "streams": []
+  "streams": [
+    {
+      "title": "PROGRAMMATIC NAVIGATION",
+      "description": "Testing history navigation router and tralalalala",
+      "id": 4
+    },
+    {
+      "title": "ADF adf adf ADF ",
+      "description": "ADF adf adf adf ",
+      "userId": "104097159525456219549",
+      "id": 6
+    },
+    {
+      "title": "adf adf ad",
+      "description": "adf adF adf ad",
+      "userId": "104097159525456219549",
+      "id": 7
+    },
+    {
+      "title": "zcvzcv",
+      "description": "cvzv sfv",
+      "userId": "104097159525456219549",
+      "id": 8
+    },
+    {
+      "title": "Teste Home Streaming",
+      "description": "Testing my home streaming uwing React and OBS",
+      "userId": "104097159525456219549",
+      "id": 9
+    }
+  ]
 }
